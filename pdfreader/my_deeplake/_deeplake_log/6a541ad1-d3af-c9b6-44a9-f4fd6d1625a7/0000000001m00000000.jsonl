@@ -1,0 +1,5 @@
+{"commit":{"release":"4.2.5","clientTimestamp":1752850244,"message":"Created initial schema"}}
+{"createColumn":{"id":1454309523,"name":"documents","type":{"kind":"text","data":{"type":"text","indexing":"none"}}}}
+{"createColumn":{"id":1177264083,"name":"embeddings","type":{"kind":"embedding","data":{"size":0,"dtype":"float32","index":"clustered"}}}}
+{"createColumn":{"id":3406691666,"name":"ids","type":{"kind":"text","data":{"type":"text","indexing":"none"}}}}
+{"createColumn":{"id":2296617960,"name":"metadata","type":{"kind":"dict","data":{}}}}
